@@ -1,4 +1,4 @@
-# Agent Discovery Server
+# Agent Discovery Server（Deprecated）
 
 ## 1. 项目简要说明
 
